@@ -19,5 +19,8 @@ cd server
 touch server.js
 npm init -y
 npm i mongoose express cors
+(backend)mkdir config controllers models routes
+
 cd client
 npm i axios react-router-dom
+
