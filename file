@@ -20,7 +20,7 @@ touch server.js
 npm init -y
 npm i mongoose express cors
 (backend)mkdir config controllers models routes
-
+(use postman to test the back end)
 cd client
 npm i axios react-router-dom
 
