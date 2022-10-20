@@ -19,4 +19,5 @@ cd server
 touch server.js
 npm init -y
 npm i mongoose express cors
-
+cd client
+npm i axios react-router-dom
