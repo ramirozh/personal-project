@@ -10,3 +10,13 @@ Log out
 #biggest feature
 
 the ability to do encrypted private chat. 
+
+
+#pre-setup
+
+npx create-react-app client
+cd server
+touch server.js
+npm init -y
+npm i mongoose express cors
+
